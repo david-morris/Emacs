@@ -7,6 +7,7 @@ No fork had this implemented, instead the text would get erased but the selectio
 At first I proposed a PR in one of the repository but they didn't even review the code and the motivation behind, they just asked how it would improve the extension, after I explained they just denied.
 That is why I made another extension, it's not just to have my own version and pollute the marketplace even more. Coding should be free and share, not maintaining some domains and pretend to be a lord of thumb ups over denying the main purpose of the product you hold.
 
+Default keybindings are taken from Emacs, so [any Emacs cheatsheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) will list the default keybindings this extension adds. If you want to change the keybindings from the default, that can be done through the [VSCode interface for changing keybindings](https://code.visualstudio.com/docs/getstarted/keybindings).
 
 I also added the chord `alt+shift+1` which will open a minibuffer. Guess what `alt+shift+1` do in Emacs ?
 
